@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at TCS **As Service Delivery Manager**
 
-- 🌱 I’m currently learning Agentic LLM **Lang Chain, React, React Native**
+- 🌱 I’m currently learning Agentic LLM **Lang Chain,Lang Graph, React, React Native**
 
-- 💬 Like to learn new technologies and experiment with them **Lang Graph**
+- 💬 Like to learn new technologies and experiment with them
 
 - 📫 How to reach me **vivekdoshi11@gmail.com**
 
