@@ -2,9 +2,6 @@
 
 ### A Technology professional with keen interest in photography
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-doshi&label=Profile views&color=0e75b6&style=flat" alt="vivek-doshi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-doshi" alt="vivek-doshi" /></a> </p>
 
 - 🔭 I'm currently working on **a SLM fine tuning and interface for it**
 
